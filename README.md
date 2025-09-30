@@ -1,0 +1,1 @@
+# resumo-lab-dio-monitoramento-inteligente-com-as-ferramentas-do-azure
